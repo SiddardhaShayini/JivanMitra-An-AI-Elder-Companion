@@ -28,8 +28,8 @@ This issue affects not just the elders themselves but also their loving families
   * **Culturally Rooted:** The AI's personality is modeled to be like a caring grandchild, deeply rooted in Indian culture, values, and traditions.
 
 -----
-![Screenshot 1](https://raw.githubusercontent.com/SiddardhaShayini/JivanMitra/main/Screenshot%202025-09-01%20113012.png)
-![Screenshot 2](https://raw.githubusercontent.com/SiddardhaShayini/JivanMitra/main/Screenshot%202025-09-01%20113137.png)
+![Screenshot 1](https://github.com/SiddardhaShayini/JivanMitra-An-AI-Elder-Companion/blob/main/Screenshot%202025-09-01%20113012.png)
+![Screenshot 2](https://github.com/SiddardhaShayini/JivanMitra-An-AI-Elder-Companion/blob/main/Screenshot%202025-09-01%20113137.png)
 -----
 ## How to Run the Application
 
