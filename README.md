@@ -106,3 +106,5 @@ streamlit run app.py
 ```
 
 The application will automatically open in a new tab in your web browser. You can now interact with JivanMitra\!
+
+Note: “This project currently runs locally (tested on Google Colab & VS Code). The UI is not deployed as a web app due to resource/API key limits, but the demo video shows full functionality. Anyone can run it locally using the instructions in README.”
