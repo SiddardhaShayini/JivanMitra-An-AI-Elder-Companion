@@ -1,8 +1,7 @@
 # JivanMitra: Your AI Elder Companion 🤖
------
-![Logo](https://github.com/SiddardhaShayini/JivanMitra-An-AI-Elder-Companion/blob/main/logo.png)
------
+
 <img src="https://github.com/SiddardhaShayini/JivanMitra-An-AI-Elder-Companion/blob/main/logo.png" alt="Logo" width="200"/>
+
 **JivanMitra** (जीवनमित्र, "Friend for Life") is an empathetic, voice-first AI companion designed to support the elderly in India. It offers companionship, timely reminders, and a simple, accessible interface, helping to combat loneliness and improve daily well-being.
 
 -----
