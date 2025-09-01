@@ -35,6 +35,9 @@ This issue affects not just the elders themselves but also their loving families
 ![Screenshot 1](https://github.com/SiddardhaShayini/JivanMitra-An-AI-Elder-Companion/blob/main/Screenshot%202025-09-01%20113012.png)
 ![Screenshot 2](https://github.com/SiddardhaShayini/JivanMitra-An-AI-Elder-Companion/blob/main/Screenshot%202025-09-01%20113137.png)
 -----
+[Watch the demo](https://drive.google.com/file/d/1yvDghbHsuobV_zEQz2-ivvS1eehl38wb/view?usp=drive_link)
+-----
+
 ## How to Run the Application
 
 Follow these steps to set up and run the JivanMitra web application on your local machine.
