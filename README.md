@@ -21,6 +21,7 @@ This issue affects not just the elders themselves but also their loving families
 ## The Solution: An Empathetic Voice Companion
 
 **JivanMitra** is designed to bridge this gap by being a simple, supportive, and culturally-aware friend. It's not just another digital assistant; it's a companion built specifically for the needs of Indian elders.
+
 <img src="https://github.com/SiddardhaShayini/JivanMitra-An-AI-Elder-Companion/blob/main/img.png" alt="Users" width="500"/>
 
 ### Key Features ✨
